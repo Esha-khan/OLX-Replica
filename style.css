@@ -1,0 +1,259 @@
+.logo{
+    width: 20px;
+    
+}
+
+.fixer{
+    overflow: hidden;
+    background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.logo1{
+    width: 40px;
+}
+
+li{
+    list-style-type: none;
+   
+}
+
+.logo1{
+    padding: 0px 0px 0px 30px;
+    
+}
+
+.logo{
+    padding: 0px 0px 0px 40px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.head{
+    display: inline-flex;
+}
+.frst{
+    width: 20%;
+    margin-left: 65px;
+    padding: 15px 15px 15px 50px;
+    border-style: solid 3px;
+    border-radius: 5px;
+    background-image: url(./Images/search.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: 10px ;
+    font-size: 15px;
+    
+}
+
+.frst1{
+    width: 60%;
+    margin-left: 65px;
+    padding: 15px 15px 15px 10px;  
+    border-radius: 5px;
+    background-image: url(./Images/search.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    background-position: right ;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+frst2{
+    border-style: solid 5px;
+    
+}
+
+li.li2{
+    font-size: 15px;
+    padding: 10px 20px 0px 20px;
+    font-weight: 500;
+}
+
+li.li3{
+    font-size: 18px;
+    padding: 10px 20px 0px 20px;
+    font-weight: 900;
+}
+
+.imga img{
+    width: 100%;
+    height: 260px;
+}
+
+.heading{
+    font-size: 25px;
+
+}
+
+.pix{
+    width: 100%;
+    height: 150px;
+}
+
+.sec{
+    margin: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    
+}
+
+
+.tag{
+    padding: 0px 10px 0px 10px;
+}
+
+.tag2{
+    font-weight: 900;
+    padding: 0px 10px 0px 10px;
+    font-size: 20px;
+}
+
+.bot{
+    
+    width: 20%;
+    padding: 15px;
+    margin: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.imga2{
+    width: 80%;
+}
+
+.bold{
+    margin-top: 120px;
+}
+
+.imga3{
+    width: 700px;
+    height: 200px;
+    margin: 30px 0px 30px 0px;
+}
+
+.log{
+    width: 70%;
+    
+}
+
+.log1{
+    width: 80px;
+    margin: 0px 10px 0px 10px;
+}
+
+.map{
+    padding: 70px 20px 0px 40px;
+}
+
+.bg{
+    background-color:white;
+    display: inline-flex;
+}
+
+.dop{
+    margin: 20px 25px 25px 10px;
+    padding: 25px 0px 2px 0px;
+    text-align: left;
+    
+}
+
+.pop{
+    width: 30px;
+    margin-top: -30px;
+}
+
+.dop1{
+    margin-left: 45px;
+}
+
+.rite{
+    width: 12px;
+    border-radius: 10px;
+    background-color: white;
+   
+}
+
+.lop{
+    background-color: rgb(8, 56, 56);
+    text-align: right;
+    width: 100%;
+    color: white;
+    padding: 2px;
+}
+
+.hide{
+    margin-left: 80px;
+}
+
+.slip{
+    margin-right: 60px;
+}
+
+@media screen and (max-width: 672px) {
+    .frst {
+      width: 30%;
+      margin-left: 15px;
+    }
+
+    .imga3{
+        width: 300px !important;
+    }
+
+    .map{
+        padding: 40px 20px 0px 20px;
+        font-size: 15px;
+    }
+    .log{
+        width: 90%;
+        margin-left: -30px;
+    }
+    .hide{
+        margin-left: 0px;
+    }
+
+    .dop{
+        margin: 20px 5px 25px 5px;
+        padding: 25px 0px 2px 0px;
+        text-align: left;
+        font-size: 10px;
+    }
+    .log1{
+        width: 40px;
+        margin: 0px 5px 0px 5px;
+    }
+
+    .bot{
+        font-size: 10px;
+    }
+    .frst1{
+        margin-left: 5px;
+    }
+
+    .logo1{
+        padding: 0px 0px 0px 10px;
+        
+    }
+    .frst{
+        margin-left: 0px;
+    }
+
+    li.li2{
+        font-size: 10px;
+        padding: 10px 10px 0px 10px;
+        font-weight: 500;
+    }
+    
+    li.li3{
+        font-size: 10px;
+        padding: 10px 10px 0px 10px;
+        font-weight: 900;
+    }
+    
+  }
